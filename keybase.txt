@@ -1,0 +1,85 @@
+==================================================================
+https://keybase.io/sileht
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.sileht.net
+    * I am sileht (https://keybase.io/sileht) on keybase.
+      * I have a public key with fingerprint A351 AB80 5797 B657 D490  BAD7 1892 B42F CEAA EBC8
+
+      To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+                    "eldest_kid": "010198630fe3ee2abc46702bcc2af5d66d99b2039fdb756fb6ca66174b4c79f0599b0a",
+                                "fingerprint": "a351ab805797b657d490bad71892b42fceaaebc8",
+                                            "host": "keybase.io",
+                                                        "key_id": "1892b42fceaaebc8",
+                                                                    "kid": "010198630fe3ee2abc46702bcc2af5d66d99b2039fdb756fb6ca66174b4c79f0599b0a",
+                                                                                "uid": "5edda4b38ec664d3a8b60fdb153f1e19",
+                                                                                            "username": "sileht"
+                                                                                                    
+        },
+        "revoke": {
+            "sig_ids": [
+                            "d415740a4ae5a217c0af1463b4876557384d3dbf09934590707ed178227cb7b40f"
+                                        
+            ]
+                    
+        },
+        "service": {
+                    "hostname": "blog.sileht.net",
+                                "protocol": "https:"
+                                        
+        },
+                "type": "web_service_binding",
+                        "version": 1
+                            
+    },
+        "ctime": 1457681288,
+            "expire_in": 157680000,
+                "prev": "605f6efc5d73ad1df6318431a86cff2cd4163c4b6a115fdaec94b19cff00e3a5",
+                    "seqno": 12,
+                        "tag": "signature"
+
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUn1MVWUY54LEh7mYsi6tNDwYK4fc857vcwVrEhNKy8ZXQgTve857LscL98C9
+FxQY0CqGDO7Ewixg0FhgwibxETmRjYal5AchYH6gMeYSA+a0+FKIziX7rz97/3n3
+Ps/v+f1+z/M+Veu8PHwNQZ90mS63TJ03XLiHPBInHEcKCaTJ+YS5kLDi1Qtnytjh
+TLOqMmEmSEACUeBoUsE0xhREEsPxJIUkiYIKK3OcLIqIImlRkRHPcgriJMhxgGcQ
+I/GiQrJ6moREGKGoNgu2Z9tVm1OnhTQLIBJIlhd5xLG8zIgkgjIPBJFCDKVIGEKM
+JEEvzNAc7grdHIIOHK5qekx/pK3a+w/8/+w7d5WOxbIMGUQLWOI4RqahgDhSLwUs
+rQAMRDfQge02mIV1tEPNxBlOoiiMsOM8zYrdU3WoFt2ygzCnEDIDWJ4hIQMxCynA
+SyRUAMPRiBF4jmV5WtAVZKSQokgzrEjyJI9lwAsUxUuIRwypEKk6t66Xp0qr5O4Z
+PdFGmZol/B8D4Tbs1I1l2zWnJmmZejLD6cx2mN3GnPnZuFuPHMAo7QlRGlJtsv5L
+ekketjtUzUaYgQ6VnKqbGTAszwmAEoQwAh/MVu04TXUj3FFSP24hnKdTciSrcFiR
+WJmnoQxkhaOBwNAACpykKJSkt8/REoM4CACryBBLIoOAqOdIEtOQJdyt5dg0nZvS
+jULL6kQtNujMtWOiyL/c8/k1HgZfj6e8Pd376+HvF/DvUgtrn1m4PHFSLOutGGuI
+UPaYPiiNKmttTLkykHjpRa83vSK1Db0vZMZsrJUm+n//qelhjRhn2LEx8HHy8ZlD
+eb4Nd9rSTTXeD96I+27X5OSfDbxPZ8ipwFt33psLCE4qiLqwNLA75NLjke1E9ciD
+r4quRQdNFSfyGbXLvxQOdRsrfwbjAyF3qeOWOZ+ld84OFbqYl4wepj8KrrZTPkL/
+s4fWt06UFkwTlcsJ12m/j7bmBPhVnqtzZYlHu7bMDhUMH3TlvLYupOxGsrijOLU5
+aOwk3hbrv+jqvNqZWj2a9DpuenfzK9yxnIjBkLuNX1Sa7h+r20dxoPL7UGNu1pbD
+jV/KoSuRZ8q328tXZpLr6bmFdGtz32g9u+T/aHoKr8lS906OqR3gxNjLHYnm1tnl
+4Iy2WPjr1rPxw/m7d94gBsurLe9P5czUNxy5X1MxkgAWp00xpQ8/q5K9C1+1OzvO
+e8PBW/V9+9lxxdDVEIDje2I+jY68NrvpnPb0QlvsX9X38g2PtLr5iOCRb0+X1f4Y
+EZNcti+hMal7OCyrJPrm5H5PY9NEqDkXfF0SGAfXRxjmP3w7KsU1VfHcpvSFAcup
+lTO3d+1sOdo+vjb+c8l4on2R9y24WGzdXO+6Hbetp3dllNjDzjf/djPZdCW4Z3qx
+au8GEdS3+PddLDn9FmcML/vmenT/gR+sH0vDfwM=
+=7qTi
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sileht
+
+==================================================================
