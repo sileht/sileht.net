@@ -4,12 +4,12 @@ Slug: index
 I'm Mehdi Abaakouk, I live in Toulouse (France) and I have been using
 Linux for more than twenty years.
 
-My current job is **Senior Software Engineer** for [Waz Inc](http://www.wazo.io).
+My current job is **Senior Software Engineer** for [Wazo Inc](http://www.wazo.io).
 
 I also co-founded and run [Mergify](https://mergify.io), a GitHub service around automation.
 
-My main interests in the computer science are the **opensource
-softwares** and how Internet works under the hood, and I **really** like
+My main interests in computer science are **opensource
+software** and how Internet works under the hood, and I **really** like
 to hack them.
 
 Here is a quick list of my contribution to the opensource world:
@@ -40,7 +40,7 @@ Here is a quick list of my contribution to the opensource world:
 -   [Pastamaker](https://github.com/sileht/pastamaker) a Github Gating
     Bot on top of Travis-CI, Github Pull Request and Github Branch
     protection system <sup>Python, Redis, Javascript, Angular, Heroku</sup>
--   A bunch of python libraries:
+-   A bunch of Python libraries:
     [cradox](https://github.com/sileht/pycradox),
     [cotyledon](https://github.com/sileht/cotyledon),
     [pifpaf](https://github.com/jd/pifpaf), ... <sup>Python, Cython</sup>
@@ -54,7 +54,7 @@ Here is a quick list of my contribution to the opensource world:
 -   [Disc-air](https://chiliproject.tetaneutral.net/projects/git-tetaneutral-net/repository/disc-air)
     a tools to graph a L2 network (started 2015) <sup>Python</sup>
 -   [Neutron routed-plugin](https://chiliproject.tetaneutral.net/projects/git-tetaneutral-net/repository/neutron-linuxrouted-plugin)
-    Openstack plugin to provide L3 routing only <sup>Python</sup>
+    OpenStack plugin to provide L3 routing only <sup>Python</sup>
 -   [Bird-LG](https://github.com/sileht/bird-lg/) a BGP looking glass
     for bird written in python/flask
     <sup>Python/JQuery</sup>
@@ -79,7 +79,7 @@ Internet Service Provider and Host Provider:
 
 In this context, since 2010, I have set up and maintained:
 
--   an [Openstack](http://www.openstack.org) cluster of 14 nodes using
+-   an [OpenStack](http://www.openstack.org) cluster of 14 nodes using
     [Kvm](http://www.linux-kvm.org) for the virtualisation (~180
     instances), [Ceph](http://ceph.com/) for the storage (~100To), and
     a [custom network
@@ -88,7 +88,7 @@ In this context, since 2010, I have set up and maintained:
     with [Bird](https://bird.network.cz/).
 -   that has replaced an old cluster of 6 nodes built with
     [ganeti](http://code.google.com/p/ganeti/).
--   an mailserver system with 3
+-   a mailserver system with 3
     [HA/replicated](http://wiki.dovecot.org/Replication) nodes using
     [Dovecot](http://www.dovecot.org/) and
     [Postfix](http://www.postfix.org/)
