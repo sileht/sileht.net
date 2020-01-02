@@ -6,7 +6,7 @@ SITENAME = "Mehdi Abaakouk (sileht)"
 SITESUBTITLE = "Random things I work on"
 
 SITEIMAGE = "/static/logo.png"
-SITEURL = "https://sileht.net"
+# SITEURL = "https://sileht.net"
 AUTHOR = "Mehdi Abaakouk"
 TIMEZONE = "Europe/Paris"
 
