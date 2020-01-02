@@ -1,0 +1,8 @@
+pelican
+pysvg
+markdown
+beautifulsoup4
+pillow
+typogrify
+cssutils
+html5lib

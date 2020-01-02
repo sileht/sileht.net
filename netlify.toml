@@ -1,0 +1,3 @@
+[build]
+  command = "pelican content -o output -s settings.py -d --ignore-cache"
+  publish = "output/"
