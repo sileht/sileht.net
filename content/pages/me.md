@@ -15,7 +15,7 @@ to hack them.
 Here is a quick list of my contribution to the opensource world:
 
 -   The engine and website of [Mergify](https://github.com/Mergifyio/mergify-engine)
-    <sup>Python, Redis, uwsgi, Nginx, Sentry</sup>
+    <sup>Python, Redis, Postgresql, gunicorn, ReactJS, Nginx, Heroku, Sentry, Datadog</sup>
 -   metadata extraction of the [Collectd](https://collectd.org) libvirt
     plugin <sup>C</sup>
 -   [libvirt](https://libvirt.org) network interface statistics
