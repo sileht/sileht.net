@@ -41,9 +41,11 @@ Here is a quick list of my contribution to the opensource world:
     Bot on top of Travis-CI, Github Pull Request and Github Branch
     protection system <sup>Python, Redis, Javascript, Angular, Heroku</sup>
 -   A bunch of Python libraries:
-    [cradox](https://github.com/sileht/pycradox),
+    [git-pull-request](https://github.com/Merigfyio/git-pull-request),
+    [daiquiri](https://github.com/jd/daiquiri),
     [cotyledon](https://github.com/sileht/cotyledon),
     [pifpaf](https://github.com/jd/pifpaf), ... <sup>Python, Cython</sup>
+    [cradox](https://github.com/sileht/pycradox),
 -   Ceph [librados](http://docs.ceph.com/docs/master/rados/api/python/)
     and
     [libcephfs](http://docs.ceph.com/docs/master/api/#ceph-filesystem-apis)
