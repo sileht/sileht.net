@@ -1,9 +1,9 @@
 FROM python:3
-
-COPY . .
+COPY . /build
+WORKDIR /build
 RUN python -m pip install -r requirements.txt
 RUN pelican content -o output -s settings.py -d --ignore-cache
 
-WORKDIR ./output
-EXPOSE 8000
-CMD exec python -m http.server
+FROM nginx
+COPY --from=0  /build/output /usr/share/nginx/html
+EXPOSE 80
