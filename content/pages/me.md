@@ -9,7 +9,7 @@ I'm currently working as **Senior DevOps Engineer** for [Qovery](https://www.qov
 And also setup and maintain the infrastructure of [tetaneutral.net](http://www.tetaneutral.net).
 
 I previously worked as **Senior Software Engineer** for [Red Hat](http://redhat.com/) and [eNovance](https://www.redhat.com/en/about/press-releases/red-hat-acquire-enovance-leader-openstack-integration-services)
-and **DevOps Engineer** for [Capgemini](https://www.capgemini.com/), [DGAC](https://www.ecologique-solidaire.gouv.fr/en/french-civil-aviation-authority), [CNES](https://cnes.fr) and [GFI](https://gfi.world).
+and as **DevOps Engineer** for [Capgemini](https://www.capgemini.com/), [DGAC](https://www.ecologique-solidaire.gouv.fr/en/french-civil-aviation-authority), [CNES](https://cnes.fr) and [GFI](https://gfi.world).
 
 My main interests in computer science are **opensource software** and how
 Internet works under the hood, and I **really** like to hack them.
