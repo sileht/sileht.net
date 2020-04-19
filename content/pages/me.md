@@ -5,10 +5,8 @@ I'm Mehdi Abaakouk, I live in Toulouse (France) and I have been using
 Linux for more than twenty years.
 
 I co-founded and run [Mergify](https://mergify.io), a GitHub service around automation,
-
 I'm currently working as **Senior DevOps Engineer** for [Qovery](https://www.qovery.com),
-
-And also setup and maintain the infrastructure of [tetaneutral.net](http://www.tetaneutral.net),
+And also setup and maintain the infrastructure of [tetaneutral.net](http://www.tetaneutral.net).
 
 I previously worked as **Senior Software Engineer** for Red Hat and eNovance
 and **DevOps Engineer** for Capgemini, DGAC, CNES and GFI.
