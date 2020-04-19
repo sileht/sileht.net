@@ -13,7 +13,7 @@ LINKS = []
 ICONS = [
     ("twitter", "http://twitter.com/sileht"),
     ("github", "http://github.com/sileht"),
-    ("linkedin", "http://fr.linkedin.com/pub/mehdi-abaakouk/24/9b0/27/"),
+    ("linkedin", "https://www.linkedin.com/in/sileht/"),
     ("envelope", "mailto:sileht@sileht.net"),
     ("key", "https://keybase.io/sileht"),
 ]
