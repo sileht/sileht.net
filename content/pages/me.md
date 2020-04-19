@@ -4,13 +4,17 @@ Slug: index
 I'm Mehdi Abaakouk, I live in Toulouse (France) and I have been using
 Linux for more than twenty years.
 
-My current job is **Senior Software Engineer** for [Wazo Inc](http://www.wazo.io).
+I co-founded and run [Mergify](https://mergify.io), a GitHub service around automation,
 
-I also co-founded and run [Mergify](https://mergify.io), a GitHub service around automation.
+I'm currently working as **Senior DevOps Engineer** for [Qovery](https://www.qovery.com),
 
-My main interests in computer science are **opensource
-software** and how Internet works under the hood, and I **really** like
-to hack them.
+And also setup and maintain the infrastructure of [tetaneutral.net](http://www.tetaneutral.net),
+
+I previously worked as **Senior Software Engineer** for Red Hat and eNovance
+and **DevOps Engineer** for Capgemini, DGAC, CNES and GFI.
+
+My main interests in computer science are **opensource software** and how
+Internet works under the hood, and I **really** like to hack them.
 
 Here is a quick list of my contribution to the opensource world:
 
