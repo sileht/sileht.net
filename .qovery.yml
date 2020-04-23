@@ -7,7 +7,7 @@ routers:
 - name: main
   custom_domains:
   - branch: master
-    domain: qovery3.sileht.net
+    domain: qovery4.sileht.net
   routes:
   - application_name: sileht.net
     paths:
