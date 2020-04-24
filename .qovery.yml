@@ -8,11 +8,7 @@ routers:
   custom_domains:
   - branch: master
     domain: qovery.sileht.net
-  - branch: master
-    domain: q.sileht.net
-  - branch: master
-    domain: qovery-bis.sileht.net
   routes:
   - application_name: sileht.net
     paths:
-    - /*
+    - /
