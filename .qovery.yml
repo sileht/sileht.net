@@ -10,6 +10,8 @@ routers:
     domain: qovery.sileht.net
   - branch: master
     domain: q.sileht.net
+  - branch: master
+    domain: q1.sileht.net
   routes:
   - application_name: sileht.net
     paths:
