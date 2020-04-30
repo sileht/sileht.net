@@ -8,14 +8,10 @@ routers:
   custom_domains:
   - branch: master
     domain: qovery.sileht.net
-  - branch: master
-    domain: q.sileht.net
-  - branch: master
-    domain: q1.sileht.net
   routes:
   - application_name: sileht.net
     paths:
     - /
 - type: mongodb
   version: "latest"
-  name: my-mongodb
+  name: mongo
