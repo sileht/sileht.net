@@ -12,6 +12,3 @@ routers:
   - application_name: sileht.net
     paths:
     - /
-- type: mongodb
-  version: "latest"
-  name: mongo
