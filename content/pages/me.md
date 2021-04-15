@@ -6,7 +6,7 @@ Linux for more than twenty years.
 
 I co-founded and run [Mergify](https://mergify.io), a GitHub service around automation, and also setup and maintain the infrastructure of [tetaneutral.net](http://www.tetaneutral.net).
 
-I worked as **Senior DevOps Engineer** and **Senior Software Engineer** for [Wazo](https://wazo.io), [Qovery](https://www.qovery.com), [Red Hat](http://redhat.com/), [eNovance](https://www.redhat.com/en/about/press-releases/red-hat-acquire-enovance-leader-openstack-integration-services)
+I worked as **Senior DevOps Engineer** and **Senior Software Engineer** for [Jolibrain](https://www.jolibrain.com/), [Wazo](https://wazo.io), [Qovery](https://www.qovery.com), [Red Hat](http://redhat.com/), [eNovance](https://www.redhat.com/en/about/press-releases/red-hat-acquire-enovance-leader-openstack-integration-services)
 , [Capgemini](https://www.capgemini.com/), [DGAC](https://www.ecologique-solidaire.gouv.fr/en/french-civil-aviation-authority), [CNES](https://cnes.fr) and [GFI](https://gfi.world).
 
 My main interests in computer science are **opensource software** and how
